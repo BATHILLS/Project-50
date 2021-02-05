@@ -1,0 +1,39 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+background-image: url("https://wallpapercave.com/wp/wp2740665.png")
+}
+.heading{
+    background-color: rgb(184, 255, 184);
+    justify-content: space-between;
+    display: flex;
+}
+
+.links{
+    justify-content: center;
+   }
+
+.img{
+   
+     justify-content: space-evenly;
+     display: flex;
+     flex-wrap: wrap;
+     background-image: url("https://wallpapercave.com/wp/wp2704825.jpg");
+     border: 5px solid red;
+}
+
+.items{
+    justify-content: space-evenly;
+
+}
+
+h3, h4{
+    text-align: center;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+
+}
